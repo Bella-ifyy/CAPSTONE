@@ -1,0 +1,30 @@
+/Users/ify/Projects/JustNom/JustNom/bin/Debug/net7.0/JustNom
+/Users/ify/Projects/JustNom/JustNom/bin/Debug/net7.0/JustNom.deps.json
+/Users/ify/Projects/JustNom/JustNom/bin/Debug/net7.0/JustNom.runtimeconfig.json
+/Users/ify/Projects/JustNom/JustNom/bin/Debug/net7.0/JustNom.dll
+/Users/ify/Projects/JustNom/JustNom/bin/Debug/net7.0/JustNom.pdb
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.AssemblyInfoInputs.cache
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.AssemblyInfo.cs
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.csproj.CoreCompileInputs.cache
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.dll
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/refint/JustNom.dll
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.pdb
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/JustNom.genruntimeconfig.cache
+/Users/ify/Projects/JustNom/JustNom/obj/Debug/net7.0/ref/JustNom.dll
+/Users/ify/Documents/untitled folder/JustNom/bin/Debug/net7.0/Data/menu.txt
+/Users/ify/Documents/untitled folder/JustNom/bin/Debug/net7.0/JustNom
+/Users/ify/Documents/untitled folder/JustNom/bin/Debug/net7.0/JustNom.deps.json
+/Users/ify/Documents/untitled folder/JustNom/bin/Debug/net7.0/JustNom.runtimeconfig.json
+/Users/ify/Documents/untitled folder/JustNom/bin/Debug/net7.0/JustNom.dll
+/Users/ify/Documents/untitled folder/JustNom/bin/Debug/net7.0/JustNom.pdb
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.AssemblyInfoInputs.cache
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.AssemblyInfo.cs
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.csproj.CoreCompileInputs.cache
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.dll
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/refint/JustNom.dll
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.pdb
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/JustNom.genruntimeconfig.cache
+/Users/ify/Documents/untitled folder/JustNom/obj/Debug/net7.0/ref/JustNom.dll
+/Users/ify/Projects/JustNom/JustNom/bin/Debug/net7.0/Data/menu.txt

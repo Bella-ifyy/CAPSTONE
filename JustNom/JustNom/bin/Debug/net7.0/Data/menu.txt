@@ -1,0 +1,9 @@
+﻿Name:Ify's Fast Food Emporium
+Toppings:[<cheese,100>,<pepperoni,120>,<tomato sauce,40>,<ham,150>,<mushroom,80>]
+Garnishes:[<cheese,100>,<fried onions,80>,<bacon,150>]
+Pizza:<Name:Margherita,Toppings:[tomato sauce, cheese],Price:500>
+Pizza:<Name:Ham and Mushroom,Toppings:[tomato sauce, ham, mushroom, cheese],Price:650>
+Pizza:<Name:Meat Feast,Toppings:[tomato sauce, ham, pepperoni, mushroom, cheese],Price:700>
+Burger:<Name:Plain Burger,Garnishes:[],Price:350>
+Burger:<Name:Cheese Burger,Garnishes:[cheese],Price:450>
+Burger:<Name:Mixed Burger,Garnishes:[bacon, fried onions, cheese],Price:550>
